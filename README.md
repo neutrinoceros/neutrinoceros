@@ -1,13 +1,14 @@
 ### Clément M.T. Robert (he/him)
 
-- 🌟 I am a French astrophysicist with a love for software development
-- 🎨 I develop and maintain [yt, a Python library for data analysis and vizualisation
-toolkit](https://github.com/yt-project/yt)
+- 🌟 I am a French computational astrophysicist with a passion for software
+  development
+- 🎨 I develop and maintain [yt, a Python library for data analysis and
+vizualisation toolkit](https://github.com/yt-project/yt)
 - ⚒️ I build tools to make my work, and that of my colleagues easier
 - 🏅 I care a lot about software quality, user experience, and performance
+- 🐍 Python is my strong suit ...
+- 🦾 ... but I also have proficience with C++ and [Kokkos](https://github.com/kokkos/kokkos)
 - 👨‍🎓 I'm always eager to learn new things !
-- 🦾 I tend to do most things in Python, but I also have experience with
-performance-efficient languages like C++
 
 Follow me on Twitter [🦏  @neutrinoceros](https://twitter.com/neutrinoceros) !
 
