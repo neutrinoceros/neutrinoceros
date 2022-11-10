@@ -10,7 +10,8 @@ vizualisation toolkit](https://github.com/yt-project/yt)
 - 🦾 ... but I also have proficience with C++ and [Kokkos](https://github.com/kokkos/kokkos)
 - 👨‍🎓 I'm always eager to learn new things !
 
-Follow me on Twitter [🦏  @neutrinoceros](https://twitter.com/neutrinoceros) !
+
+Follow me on Mastodon [🦏  @neutrinoceros](https://fosstodon.org/web/@neutrinoceros) !
 
 <!--
 **neutrinoceros/neutrinoceros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
