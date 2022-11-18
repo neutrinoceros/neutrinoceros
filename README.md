@@ -11,7 +11,7 @@ vizualisation toolkit](https://github.com/yt-project/yt)
 - 👨‍🎓 I'm always eager to learn new things !
 
 
-Follow me on Mastodon [🦏  @neutrinoceros](https://fosstodon.org/web/@neutrinoceros) !
+Follow me on Mastodon <a rel="me" href="https://fosstodon.org/@neutrinoceros">🦏  @neutrinoceros</a> !
 
 <!--
 **neutrinoceros/neutrinoceros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
