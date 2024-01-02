@@ -1,14 +1,14 @@
 ### Clément M.T. Robert (he/him)
 
-- 🌟 I am a French computational astrophysicist with a passion for software
-  development
-- 🎨 I develop and maintain [yt, a Python library for data analysis and
+- 👷🏻‍♂️ I am currently working on [Astropy](https://github.com/astropy/astropy) as freelance software engineer
+- 🌟 I was trained as a computational astrophysicist
+- 🎨 I also maintain [yt, a Python library for data analysis and
 vizualisation toolkit](https://github.com/yt-project/yt)
 - ⚒️ I build tools to make my work, and that of my colleagues easier
 - 🏅 I care a lot about software quality, user experience, and performance
-- 🐍 Python is my strong suit ...
-- 🦾 ... but I also have proficience with C++ and [Kokkos](https://github.com/kokkos/kokkos)
-- 👨‍🎓 I'm always eager to learn new things !
+- 🐍 Most project I'm involved with are written in Python
+- 🦾 I contributed to the [GPU accelerated simulation code Idefix](https://github.com/idefix-code/idefix)
+- 👨‍🎓 I am currently learning Rust
 
 
 Follow me on Mastodon <a rel="me" href="https://fosstodon.org/@neutrinoceros">🦏  @neutrinoceros</a> !
