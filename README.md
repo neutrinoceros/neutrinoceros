@@ -3,7 +3,7 @@
 - 👷🏻‍♂️ I am currently working on [Astropy](https://github.com/astropy/astropy) as freelance software engineer
 - 🌟 I was trained as a computational astrophysicist
 - 🎨 I also maintain [yt, a Python library for data analysis and
-vizualisation toolkit](https://github.com/yt-project/yt)
+visualization toolkit](https://github.com/yt-project/yt)
 - ⚒️ I build tools to make my work, and that of my colleagues easier
 - 🏅 I care a lot about software quality, user experience, and performance
 - 🐍 Most project I'm involved with are written in Python
