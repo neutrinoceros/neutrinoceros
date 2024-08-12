@@ -10,6 +10,7 @@ visualization toolkit](https://github.com/yt-project/yt)
 - 🦾 I contributed to the [GPU accelerated simulation code Idefix](https://github.com/idefix-code/idefix)
 - 👨‍🎓 I am currently learning Rust
 
+![Card](https://github-readme-stats.vercel.app/api?username=neutrinoceros&hide_title=true&show_icons=true&rank_icon=percentile&bg_color=70,000000,006dbe&text_color=f3f6f4&icon_color=ff6bb3&title_color=ff6bb3)
 
 Follow me on Mastodon <a rel="me" href="https://fosstodon.org/@neutrinoceros">🦏  @neutrinoceros</a> !
 
