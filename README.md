@@ -1,14 +1,15 @@
 ### Clément M.T. Robert (he/him)
 
-- 👷🏻‍♂️ I am currently working on [Astropy](https://github.com/astropy/astropy) as freelance software engineer
+- 🐍 I am a maintainer of the following Scientific Python packages
+  - [Astropy](https://github.com/astropy/astropy)
+  - [h5py](https://github.com/h5py/h5py)
+  - [yt](https://github.com/yt-project/yt)
+  - [unyt](https://github.com/yt-project/unyt)
+  - [Cmasher](https://github.com/1313e/CMasher/)
 - 🌟 I was trained as a computational astrophysicist
-- 🎨 I also maintain [yt, a Python library for data analysis and
-visualization toolkit](https://github.com/yt-project/yt)
-- ⚒️ I build tools to make my work, and that of my colleagues easier
 - 🏅 I care a lot about software quality, user experience, and performance
-- 🐍 Most project I'm involved with are written in Python
 - 🦾 I contributed to the [GPU accelerated simulation code Idefix](https://github.com/idefix-code/idefix)
-- 👨‍🎓 I am currently learning Rust
+- 🦀 I am currently learning Rust
 
 [![Card](https://github-readme-stats.vercel.app/api?username=neutrinoceros&hide_title=true&show_icons=true&rank_icon=percentile&bg_color=70,000000,006dbe&text_color=f3f6f4&icon_color=ff6bb3&title_color=ff6bb3)](https://github.com/neutrinoceros)
 
