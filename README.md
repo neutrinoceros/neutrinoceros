@@ -1,15 +1,22 @@
-### Clément M.T. Robert (he/him)
+## Who
 
-- 🐍 I am a maintainer of the following Scientific Python packages
-  - [Astropy](https://github.com/astropy/astropy)
+I'm a scientific software engineer, with a PhD in computational astrophysics.
+
+## What
+I write narrowly scoped, near-zero dependencies, composable libraries, mostly oriented towards processing and visualization of astronomical datasets.
+I hold myself to the highest standards of reliabily, performance, and maintainability.
+I care deeply about creating a great experience for end users.
+
+## Highlights
+
+I serve as a maintainer on the following Scientific Python packages
   - [h5py](https://github.com/h5py/h5py)
+  - [bottleneck](https://github.com/pydata/bottleneck)
+  - [Astropy](https://github.com/astropy/astropy)
   - [yt](https://github.com/yt-project/yt)
   - [unyt](https://github.com/yt-project/unyt)
   - [Cmasher](https://github.com/1313e/CMasher/)
-- 🌟 I was trained as a computational astrophysicist
-- 🏅 I care a lot about software quality, user experience, and performance
-- 🦾 I contributed to the [GPU accelerated simulation code Idefix](https://github.com/idefix-code/idefix)
-- 🦀 I am currently learning Rust
+
 
 [![Card](https://github-readme-stats.vercel.app/api?username=neutrinoceros&hide_title=true&show_icons=true&rank_icon=percentile&bg_color=70,000000,006dbe&text_color=f3f6f4&icon_color=ff6bb3&title_color=ff6bb3)](https://github.com/neutrinoceros)
 
