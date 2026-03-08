@@ -1,11 +1,16 @@
 ## Who
 
-I'm a scientific software engineer, with a PhD in computational astrophysics.
+I'm a politically critical scientific software engineer, with a PhD in computational astrophysics.
 
 ## What
-I write narrowly scoped, near-zero dependencies, composable libraries, mostly oriented towards processing and visualization of astronomical datasets.
+I write narrowly scoped, (near-)zero dependencies, composable libraries, mostly oriented towards processing and visualization of astronomical datasets.
 I hold myself to the highest standards of reliabily, performance, and maintainability.
 I care deeply about creating a great experience for end users.
+
+For all the reasons above, and more:
+
+> [!IMPORTANT]
+> Agentic AI or otherwise LLM-backed generative contributions will *never* be welcome in my projects.
 
 ## Highlights
 
